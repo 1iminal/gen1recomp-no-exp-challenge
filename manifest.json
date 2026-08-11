@@ -1,9 +1,10 @@
 {
   "id": "no_exp_challenge",
   "name": "0 EXP Challenge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "entry": "main.lua",
   "api": 2,
+  "games": [ "all" ],
   "category": "GAMEPLAY",
   "description": "Disables battle EXP gain.",
   "github": "https://github.com/1iminal/gen1recomp-no-exp-challenge"
